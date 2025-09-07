@@ -22,6 +22,11 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Aqfa07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aqfa07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aqfa07&theme=tokyonight" width="100%" />
+</div>
+
+---
